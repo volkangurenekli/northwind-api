@@ -1,0 +1,14 @@
+{
+  "name": "northwind-api",
+  "version": "1.0.0",
+  "description": "northwind api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Volkan Gürenekli",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

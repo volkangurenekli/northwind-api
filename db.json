@@ -1,0 +1,345 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Mac",
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-mac-nav-202110?wid=200&hei=130&fmt=png-alpha&.v=1632870674000"
+    },
+    {
+      "id": 2,
+      "name": "iPad",
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-ipad-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783381000"
+    },
+    {
+      "id": 3,
+      "name": "iPhone",
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-iphone-nav-202109_GEO_EMEA?wid=200&hei=130&fmt=png-alpha&.v=1630706116000"
+    },
+    {
+      "id": 4,
+      "name": "Watch",
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-watch-nav-202110?wid=200&hei=130&fmt=png-alpha&.v=1631823475000"
+    },
+    {
+      "id": 5,
+      "name": "AirPods",
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-airpods-nav-202110?wid=200&hei=130&fmt=png-alpha&.v=1633718741000"
+    },
+    {
+      "id": 6,
+      "name": "AirTag",
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-airtags-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783380000"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 11,
+      "categoryId": 1,
+      "title": "MacBook Air",
+      "price": 999,
+      "star": 4.1,
+      "date": "1645191519813",
+      "description": "Apple M1 chip for a giant leap in CPU, GPU, and machine learning performance",
+      "imageUrl": "https://www.apple.com/shop/buy-mac",
+      "images": ["", ""]
+    },
+    {
+      "id": 12,
+      "categoryId": 1,
+      "title": "MacBook Pro 13-inch",
+      "price": 1299,
+      "star": 4.2,
+      "date": "1645191519813",
+      "description": "Apple M1 chip for a giant leap in CPU, GPU, and machine learning performance",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 13,
+      "categoryId": 1,
+      "title": "MacBook Pro 14-inch",
+      "price": 1999,
+      "star": 4.3,
+      "date": "1645191519813",
+      "description": "New Apple M1 Pro and M1 Max chips deliver incredible performance",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 14,
+      "categoryId": 1,
+      "title": "MacBook Pro 16-inch",
+      "price": 2499,
+      "star": 4.4,
+      "date": "1645191519813",
+      "description": "New Apple M1 Pro and M1 Max chips deliver incredible performance",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 15,
+      "categoryId": 1,
+      "title": "iMac 24-inch",
+      "price": 1299,
+      "star": 4.5,
+      "date": "1645191519813",
+      "description": "Apple M1 chip for a giant leap in CPU, GPU, and machine learning performance",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 16,
+      "categoryId": 1,
+      "title": "iMac 27-inch",
+      "price": 1299,
+      "star": 4.6,
+      "date": "1645191519813",
+      "description": "10th-generation Intel Core i5 or i7 processor",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 17,
+      "categoryId": 1,
+      "title": "Mac mini",
+      "price": 699,
+      "star": 4.7,
+      "date": "1645191519813",
+      "description": "Apple M1 chip for a giant leap in CPU, GPU, and machine learning performance",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 18,
+      "categoryId": 1,
+      "title": "Mac Pro",
+      "price": 5999,
+      "star": 4.8,
+      "date": "1645191519813",
+      "description": "Intel Xeon W processor configurable up to 28 cores",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 19,
+      "categoryId": 1,
+      "title": "Pro Display XDR",
+      "price": 4999,
+      "star": 4.9,
+      "date": "1645191519813",
+      "description": "32-inch 6K Retina displayFootnote1 provides astoundingly sharp and detailed imagery",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 21,
+      "categoryId": 2,
+      "title": "iPad Pro 11-inch",
+      "price": 799,
+      "star": 4.2,
+      "date": "1645191519813",
+      "description": "11-inch Liquid Retina displayfootnote¹ with ProMotion, True Tone, and P3 wide color",
+      "imageUrl": "https://www.apple.com/shop/buy-ipad",
+      "images": ["", ""]
+    },
+    {
+      "id": 22,
+      "categoryId": 2,
+      "title": "iPad Air",
+      "price": 599,
+      "star": 4.4,
+      "date": "1645191519813",
+      "description": "A14 Bionic chip with Neural Engine",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 23,
+      "categoryId": 2,
+      "title": "iPad",
+      "price": 329,
+      "star": 4.6,
+      "date": "1645191519813",
+      "description": "10.2-inch Retina display with True Tone for incredible detail and vivid colors",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 24,
+      "categoryId": 2,
+      "title": "iPad mini",
+      "price": 499,
+      "star": 4.8,
+      "date": "1645191519813",
+      "description": "Stunning 8.3-inch Liquid Retina display with True Tone and P3 wide colorfootnote",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 31,
+      "categoryId": 3,
+      "title": "iPhone 13 Pro",
+      "price": 999,
+      "star": 4.0,
+      "date": "1645191519813",
+      "description": "6.1-inch Super Retina XDR displayfootnote¹ with ProMotion for a faster, more responsive feel",
+      "imageUrl": "https://www.apple.com/shop/buy-iphone",
+      "images": ["", ""]
+    },
+    {
+      "id": 32,
+      "categoryId": 3,
+      "title": "iPhone 13",
+      "price": 799,
+      "star": 4.2,
+      "date": "1645191519813",
+      "description": "6.1-inch Super Retina XDR display,footnote¹ now 28% brighter",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 33,
+      "categoryId": 3,
+      "title": "iPhone 12",
+      "price": 699,
+      "star": 4.4,
+      "date": "1645191519813",
+      "description": "6.1-inch Super Retina XDR displayfootnote¹ for great contrast and incredible color accuracy",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 34,
+      "categoryId": 3,
+      "title": "iPhone SE",
+      "price": 699,
+      "star": 4.6,
+      "date": "1645191519813",
+      "description": "4.7-inch Retina HD displayfootnote¹ with True Tone",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 35,
+      "categoryId": 3,
+      "title": "iPhone 11",
+      "price": 499,
+      "star": 4.8,
+      "date": "1645191519813",
+      "description": "6.1-inch Liquid Retina HD display",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 41,
+      "categoryId": 4,
+      "title": "Apple Watch Series 7",
+      "price": 399,
+      "star": 4.0,
+      "date": "1645191519813",
+      "description": "Largest Always-On Retina display yet",
+      "imageUrl": "https://www.apple.com/shop/buy-watch",
+      "images": ["", ""]
+    },
+    {
+      "id": 42,
+      "categoryId": 4,
+      "title": "Apple Watch SE",
+      "price": 279,
+      "star": 4.2,
+      "date": "1645191519813",
+      "description": "Track all your favorite workouts, like swimming, running, Pilates, and Tai Chi",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 43,
+      "categoryId": 4,
+      "title": "Apple Watch Series 3",
+      "price": 199,
+      "star": 4.4,
+      "date": "1645191519813",
+      "description": "Track daily activity on Apple Watch and see your trends in the Fitness app on iPhone",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 44,
+      "categoryId": 4,
+      "title": "Apple Watch Nike Series 7",
+      "price": 399,
+      "star": 4.6,
+      "date": "1645191519813",
+      "description": "Customize with Nike bands and exclusive watch faces, and the Nike Run Club app",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 45,
+      "categoryId": 4,
+      "title": "Apple Watch Hermès",
+      "price": 1229,
+      "star": 4.8,
+      "date": "1645191519813",
+      "description": "Exclusive Hermès bands and watch faces",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 51,
+      "categoryId": 5,
+      "title": "AirPods 2",
+      "price": 129,
+      "star": 4.0,
+      "date": "1645191519813",
+      "description": "Up to 5 hours of listening time on one charge",
+      "imageUrl": "https://www.apple.com/airpods/compare/",
+      "images": ["", ""]
+    },
+    {
+      "id": 52,
+      "categoryId": 5,
+      "title": "AirPods 3",
+      "price": 179,
+      "star": 4.2,
+      "date": "1645191519813",
+      "description": "Up to 6 hours of listening time on one charge",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 53,
+      "categoryId": 5,
+      "title": "AirPods Pro",
+      "price": 249,
+      "star": 4.4,
+      "date": "1645191519813",
+      "description": "Spatial audio with dynamic head tracking",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 54,
+      "categoryId": 5,
+      "title": "AirPods Max",
+      "price": 549,
+      "star": 4.6,
+      "date": "1645191519813",
+      "description": "Up to 20 hours of listening time on one charge",
+      "imageUrl": "",
+      "images": ["", ""]
+    },
+    {
+      "id": 61,
+      "categoryId": 6,
+      "title": "AirTag",
+      "price": 29,
+      "star": 4.5,
+      "date": "1645191519813",
+      "description": "Personalize your AirTag with free engraving. Only at Apple",
+      "imageUrl": "https://www.apple.com/shop/buy-airtag/airtag/1-pack?fnode=1564481996e0fea2eb9d791114b6946b06a3941c91826704613466dd5a5aaec1aef1792d79841856703f6ee38c035807524c09a54521a7dfc45b41c94dea960c2013e6e637969e9cd9dc2b540e6652d59229e5d2d050ce2be32c506927be6cd9",
+      "images": ["", ""]
+    }
+  ]
+}
