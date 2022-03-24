@@ -2,31 +2,43 @@
   "categories": [
     {
       "id": 1,
+      "description": "mac",
+      "link": "mac",
       "name": "Mac",
       "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-mac-nav-202110?wid=200&hei=130&fmt=png-alpha&.v=1632870674000"
     },
     {
       "id": 2,
+      "description": "ipad",
+      "link": "ipad",
       "name": "iPad",
       "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-ipad-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783381000"
     },
     {
       "id": 3,
+      "description": "iphone",
+      "link": "iphone",
       "name": "iPhone",
       "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-iphone-nav-202109_GEO_EMEA?wid=200&hei=130&fmt=png-alpha&.v=1630706116000"
     },
     {
       "id": 4,
+      "description": "watch",
+      "link": "watch",
       "name": "Watch",
       "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-watch-nav-202110?wid=200&hei=130&fmt=png-alpha&.v=1631823475000"
     },
     {
       "id": 5,
+      "description": "airpods",
+      "link": "airpods",
       "name": "AirPods",
       "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-airpods-nav-202110?wid=200&hei=130&fmt=png-alpha&.v=1633718741000"
     },
     {
       "id": 6,
+      "description": "airtag",
+      "link": "airtag",
       "name": "AirTag",
       "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-airtags-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783380000"
     }
@@ -42,10 +54,7 @@
       "date": "1645191519813",
       "description": "Apple M1 chip for a giant leap in CPU, GPU, and machine learning performance",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1636156358000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1636156517000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1635187292000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1636156517000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1635187292000"]
     },
     {
       "id": 12,
@@ -56,10 +65,7 @@
       "date": "1645191519813",
       "description": "Apple M1 chip for a giant leap in CPU, GPU, and machine learning performance",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-13-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1636156358000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-13-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1636157948000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-13-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1635187941000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-13-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1636157948000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-13-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1635187941000"]
     },
     {
       "id": 13,
@@ -70,10 +76,7 @@
       "date": "1645191519813",
       "description": "New Apple M1 Pro and M1 Max chips deliver incredible performance",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1635183223000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-3-202111_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1635183378000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1635183222000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-3-202111_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1635183378000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1635183222000"]
     },
     {
       "id": 14,
@@ -84,10 +87,7 @@
       "date": "1645191519813",
       "description": "New Apple M1 Pro and M1 Max chips deliver incredible performance",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-16-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1635206712000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-16-digitalmat-gallery-3-202111_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1635183625000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-16-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1635206716000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-16-digitalmat-gallery-3-202111_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1635183625000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-16-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1635206716000"]
     },
     {
       "id": 15,
@@ -98,10 +98,7 @@
       "date": "1645191519813",
       "description": "Apple M1 chip for a giant leap in CPU, GPU, and machine learning performance",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac24-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186198000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac24-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186200000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac24-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186199000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac24-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186200000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac24-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186199000"]
     },
     {
       "id": 16,
@@ -112,10 +109,7 @@
       "date": "1645191519813",
       "description": "10th-generation Intel Core i5 or i7 processor",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac27-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186288000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac27-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1635186286000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac27-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186287000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac27-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1635186286000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac27-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186287000"]
     },
     {
       "id": 17,
@@ -126,10 +120,7 @@
       "date": "1645191519813",
       "description": "Apple M1 chip for a giant leap in CPU, GPU, and machine learning performance",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-mini-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186947000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-mini-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186947000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-mini-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186948000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-mini-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186947000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-mini-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186948000"]
     },
     {
       "id": 18,
@@ -140,10 +131,7 @@
       "date": "1645191519813",
       "description": "Intel Xeon W processor configurable up to 28 cores",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-pro-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1636480313000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-pro-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1636480313000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-pro-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1636480312000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-pro-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1636480313000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-pro-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1636480312000"]
     },
     {
       "id": 19,
@@ -154,10 +142,7 @@
       "date": "1645191519813",
       "description": "32-inch 6K Retina displayFootnote1 provides astoundingly sharp and detailed imagery",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/proxdr-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1635206791000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/proxdr-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635206789000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/proxdr-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1635206789000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/proxdr-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635206789000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/proxdr-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1635206789000"]
     },
     {
       "id": 21,
@@ -168,10 +153,7 @@
       "date": "1645191519813",
       "description": "11-inch Liquid Retina displayfootnote¹ with ProMotion, True Tone, and P3 wide color",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1637012932000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1637012932000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635185148000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1637012932000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635185148000"]
     },
     {
       "id": 22,
@@ -182,10 +164,7 @@
       "date": "1645191519813",
       "description": "A14 Bionic chip with Neural Engine",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1637012932000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1637012932000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635185148000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1637012932000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635185148000"]
     },
     {
       "id": 23,
@@ -196,10 +175,7 @@
       "date": "1645191519813",
       "description": "10.2-inch Retina display with True Tone for incredible detail and vivid colors",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1637012932000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1637012932000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635185148000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1637012932000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635185148000"]
     },
     {
       "id": 24,
@@ -210,10 +186,7 @@
       "date": "1645191519813",
       "description": "Stunning 8.3-inch Liquid Retina display with True Tone and P3 wide colorfootnote",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1637012932000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1637012932000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635185148000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1637012932000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635185148000"]
     },
     {
       "id": 31,
@@ -224,10 +197,7 @@
       "date": "1645191519813",
       "description": "6.1-inch Super Retina XDR displayfootnote¹ with ProMotion for a faster, more responsive feel",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635487443000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635487442000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1635487442000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635487442000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1635487442000"]
     },
     {
       "id": 32,
@@ -238,10 +208,7 @@
       "date": "1645191519813",
       "description": "6.1-inch Super Retina XDR display,footnote¹ now 28% brighter",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635487443000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635487442000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1635487442000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635487442000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1635487442000"]
     },
     {
       "id": 33,
@@ -252,10 +219,7 @@
       "date": "1645191519813",
       "description": "6.1-inch Super Retina XDR displayfootnote¹ for great contrast and incredible color accuracy",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635487443000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635487442000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1635487442000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635487442000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1635487442000"]
     },
     {
       "id": 34,
@@ -266,10 +230,7 @@
       "date": "1645191519813",
       "description": "4.7-inch Retina HD displayfootnote¹ with True Tone",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635487443000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635487442000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1635487442000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635487442000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1635487442000"]
     },
     {
       "id": 35,
@@ -280,10 +241,7 @@
       "date": "1645191519813",
       "description": "6.1-inch Liquid Retina HD display",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635487443000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635487442000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1635487442000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635487442000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1635487442000"]
     },
     {
       "id": 41,
@@ -294,10 +252,7 @@
       "date": "1645191519813",
       "description": "Largest Always-On Retina display yet",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635879225000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"]
     },
     {
       "id": 42,
@@ -308,10 +263,7 @@
       "date": "1645191519813",
       "description": "Track all your favorite workouts, like swimming, running, Pilates, and Tai Chi",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635879225000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"]
     },
     {
       "id": 43,
@@ -322,10 +274,7 @@
       "date": "1645191519813",
       "description": "Track daily activity on Apple Watch and see your trends in the Fitness app on iPhone",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635879225000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"]
     },
     {
       "id": 44,
@@ -336,10 +285,7 @@
       "date": "1645191519813",
       "description": "Customize with Nike bands and exclusive watch faces, and the Nike Run Club app",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635879225000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"]
     },
     {
       "id": 45,
@@ -350,10 +296,7 @@
       "date": "1645191519813",
       "description": "Exclusive Hermès bands and watch faces",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635879225000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"]
     },
     {
       "id": 51,
@@ -364,10 +307,7 @@
       "date": "1645191519813",
       "description": "Up to 5 hours of listening time on one charge",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635879225000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"]
     },
     {
       "id": 52,
@@ -378,10 +318,7 @@
       "date": "1645191519813",
       "description": "Up to 6 hours of listening time on one charge",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635879225000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"]
     },
     {
       "id": 53,
@@ -392,10 +329,7 @@
       "date": "1645191519813",
       "description": "Spatial audio with dynamic head tracking",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635879225000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"]
     },
     {
       "id": 54,
@@ -406,10 +340,7 @@
       "date": "1645191519813",
       "description": "Up to 20 hours of listening time on one charge",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635879225000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"]
     },
     {
       "id": 61,
@@ -420,10 +351,7 @@
       "date": "1645191519813",
       "description": "Personalize your AirTag with free engraving. Only at Apple",
       "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635879225000",
-      "images": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"
-      ]
+      "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601173000", "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-5-202111?wid=364&hei=333&fmt=png-alpha&.v=1634601174000"]
     }
   ]
 }
