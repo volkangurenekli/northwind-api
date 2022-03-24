@@ -1,6 +1,13 @@
 {
   "categories": [
     {
+      "id": 0,
+      "description": "all",
+      "link": "all",
+      "name": "All",
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-mac-nav-202110?wid=200&hei=130&fmt=png-alpha&.v=1632870674000"
+    },
+    {
       "id": 1,
       "description": "mac",
       "link": "mac",
